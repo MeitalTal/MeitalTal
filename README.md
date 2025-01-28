@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Meital 👋
 
 # 💫 About Me:
 🔭 I’m currently working on honing my DevOps skills and exploring automation tools.<br>👯 I’m looking to collaborate on exciting projects involving CI/CD pipelines, cloud infrastructure, or containerization.<br>🤝 I’m looking for help with advanced Kubernetes concepts and optimizing cloud deployments.<br>🌱 I’m currently learning DevOps. I love learning new technologies and developing my skills in the DevOps field.<br>💬 Ask me about Linux, scripting, or anything related to system automation!<br>⚡ Fun fact: I can troubleshoot errors faster than I can decide what to eat for dinner. 😄
