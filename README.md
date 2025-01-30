@@ -51,11 +51,13 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<div align=center>
-      <img width=390 src="https://github-readme-stats.vercel.app/api?username=MeitalTal&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="readme stats" />
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=MeitalTal&theme=dark&hide_border=false" alt="streak stats"/>
+<div align="center" class="container">
+  <img class="stat-img" src="https://github-readme-stats.vercel.app/api?username=MeitalTal&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="readme stats">
+  <img class="stat-img" src="https://github-readme-streak-stats.herokuapp.com/?user=MeitalTal&theme=dark&hide_border=false" alt="streak stats">
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeitalTal&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="top langs" />
+  <img class="stat-img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeitalTal&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="top langs" />
 </div>
+
+
 
 
