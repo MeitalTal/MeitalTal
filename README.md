@@ -13,11 +13,7 @@
 
 🤝 I’m looking for help with advanced Kubernetes concepts and optimizing cloud deployments.
 
-🌱 I’m currently learning DevOps. I love learning new technologies and developing my skills in the DevOps field.
-
-💬 Ask me about Linux, scripting, or anything related to system automation!
-
-⚡ Fun fact: I can troubleshoot errors faster than I can decide what to eat for dinner. 😄
+🌱 I’m currently learning DevOps.
 
  </div>
 
